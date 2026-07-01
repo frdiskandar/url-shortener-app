@@ -1,6 +1,7 @@
-const pg = require('pg')
-const { config } = require('../utils/config')
-const { logger } = require('../utils/logger')
+import pg from 'pg'
+import { config } from '../utils/config.js';
+import { logger } from '../utils/logger.js';
+
 const { Pool } = pg
 
 const pool = new Pool({
@@ -9,13 +10,10 @@ const pool = new Pool({
   password: config.POSTGRES_PASSWORD,
   port: config.POSTGRES_PORT,
   database: config.POSTGRES_DATABASE,
-  max: 5,
-  idleTimeoutMillis: 30000,         // Close idle clients after 30 seconds (Default is 30000)
-  connectionTimeoutMillis: 2000,    // Return an error if a connection takes over 2 seconds (Default is 0 / no timeout)
 })
 
-const query = async (q, params) => {
-  const start = new Date.now();
+export const query = async (q, params) => {
+  const start = Date.now();
 
   try {
     const res = await pool.query(q, params);
@@ -27,5 +25,3 @@ const query = async (q, params) => {
     throw error;
   }
 }
-
-module.exports = query;

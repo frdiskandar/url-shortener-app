@@ -1,6 +1,6 @@
-const Winston = require("winston")
+import winston from "winston"
 
-export const logger = Winston.createLogger({
+export const logger = winston.createLogger({
   level: 'info', // Lowest severity level to log
   format: winston.format.combine(
     winston.format.timestamp(),

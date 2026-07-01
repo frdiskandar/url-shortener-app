@@ -1,0 +1,357 @@
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:55:31.965Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:56:33.065Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:59:00.663Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:10:53.156Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:11:56.703Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:13:06.456Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":30432,"syscall":"connect","timestamp":"2026-07-01T07:17:58.069Z"}
+{"code":"42P01","file":"parse_relation.c","length":110,"level":"error","line":"1449","name":"error","position":"15","routine":"parserOpenTable","severity":"ERROR","timestamp":"2026-07-01T07:18:54.602Z"}
+{"code":"42P01","file":"parse_relation.c","length":110,"level":"error","line":"1449","name":"error","position":"15","routine":"parserOpenTable","severity":"ERROR","timestamp":"2026-07-01T07:23:14.918Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.086Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.511Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.926Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.062Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.226Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.398Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.538Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.691Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.853Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.021Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.417Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.782Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.009Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.285Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.655Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:00.623Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:03.389Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:03.940Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.183Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.366Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.747Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:05.091Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:42.427Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:44.900Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.395Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.580Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.780Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.983Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.192Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.349Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.520Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.700Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.848Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.232Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.530Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.841Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.122Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.406Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.671Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.938Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:50.213Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:10.760Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.548Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.693Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.840Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.990Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.142Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.281Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.445Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.585Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.745Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.914Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.089Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.300Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.539Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.810Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.119Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.362Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.610Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:56:19.515Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:09.983Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:10.749Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:10.893Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:11.041Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:31:37.206Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:13.345Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.079Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.309Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.458Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.667Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.373Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.586Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.840Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:17.109Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:23.176Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:23.753Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:32:43.015Z"}
+{"code":"08P01","file":"postgres.c","length":137,"level":"error","line":"1733","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2026-07-01T08:32:56.255Z"}
+{"code":"08P01","file":"postgres.c","length":137,"level":"error","line":"1733","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2026-07-01T08:32:56.255Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:37:07.753Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:37:07.753Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:37:52.371Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:37:53.606Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:38:07.309Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:38:07.309Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:38:56.903Z"}
+{"level":"error","timestamp":"2026-07-01T08:39:41.100Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:40:10.364Z"}
+{"level":"error","timestamp":"2026-07-01T08:41:24.134Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.949Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.958Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.963Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.967Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.972Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.978Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.061Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.068Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.073Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.080Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.109Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.161Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.250Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.346Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.354Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.395Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.423Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.492Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.515Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.539Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.608Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.634Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.693Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.722Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.768Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.815Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.942Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.949Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.954Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.962Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.986Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.017Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.090Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.190Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.251Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.272Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.307Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.348Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.387Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.394Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.418Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.426Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.464Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.502Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.569Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.576Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.622Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.628Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.633Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.641Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.646Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.685Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.718Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.806Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.908Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.955Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.999Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.010Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.058Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.106Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.134Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.197Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.273Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.303Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.372Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.396Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:07.517Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.520Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.528Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.535Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.542Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.548Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.553Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:44:50.605Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:44:59.114Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:30.996Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.003Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.010Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.020Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.024Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.029Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.624Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.630Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.634Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.638Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.642Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.487Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.500Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.505Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.511Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.516Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:49.835Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:49.835Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.136Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.136Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.276Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.276Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.599Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.599Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:52.935Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:52.935Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:53.385Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:53.385Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.051Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.051Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.667Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.667Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.871Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.871Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.043Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.043Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.206Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.206Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:50.606Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:50.606Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:07:57.162Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:07:57.446Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:01.476Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.113Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.117Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.150Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:46.944Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:47.712Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.398Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.810Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.972Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.118Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.264Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.422Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.580Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.737Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.847Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.011Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.165Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.315Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.498Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.720Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.866Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.838Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.839Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.878Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:12.953Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:12:29.619Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:12:30.226Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:13:33.940Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:13:34.317Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:14:20.675Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:14:21.055Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:37.237Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:37.602Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.866Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.871Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.900Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.460Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.463Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.494Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.410Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.411Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.444Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.467Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.468Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.502Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.081Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.082Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.109Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.712Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.713Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.737Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.257Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.258Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.287Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.787Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.788Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.811Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.266Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.267Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.290Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.701Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.701Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.728Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.180Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.181Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.204Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.533Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.534Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.555Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.880Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.881Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.907Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:21.117Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:21.117Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.025Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.025Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.510Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.510Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.582Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.582Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.718Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.718Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.041Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.041Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.175Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.175Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.322Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.322Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.479Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.479Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.619Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.619Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.779Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.779Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.906Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.906Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:24.047Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:24.047Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:34.797Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.060Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.532Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.725Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.914Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.083Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.247Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.436Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.591Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.774Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.939Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.103Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.435Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.603Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.779Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.956Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:43.110Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:47.656Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:48.066Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:21:27.870Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.248Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.260Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.276Z"}
+{"level":"error","timestamp":"2026-07-01T09:23:41.762Z"}
+{"level":"error","timestamp":"2026-07-01T09:23:53.873Z"}
+{"level":"error","timestamp":"2026-07-01T09:24:26.207Z"}
+{"level":"error","timestamp":"2026-07-01T09:24:52.020Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:26:34.867Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:26:35.746Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:27:37.180Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:33:25.262Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:33:25.584Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.260Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.266Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.298Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.385Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.386Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.425Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.005Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.008Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.042Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.769Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.770Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.805Z"}

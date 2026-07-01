@@ -1,0 +1,23 @@
+info:
+  name: create shorted url
+  type: http
+  seq: 9
+
+http:
+  method: POST
+  url: "{{backend-url}}/shorted"
+  body:
+    type: json
+    data: |-
+      {
+        "url": "https://google.com",
+        "shorted_url": "zuli",
+        "user_id": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

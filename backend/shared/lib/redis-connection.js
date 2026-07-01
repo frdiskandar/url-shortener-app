@@ -1,7 +1,8 @@
+import { config } from "../utils/config"
 import { logger } from "../utils/logger"
 
-const Redis = require("redis")
-const { config } = require("../utils/config")
+import redis from "redis"
+
 
 const client = Redis.createClient({
   url: `redis://${config.REDIS_USER}:${config.REDIS_PASSWORD}@${config.REDIS_HOST}:${config.REDIS_PORT}`

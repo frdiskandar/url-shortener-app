@@ -1,0 +1,21 @@
+info:
+  name: get userdata
+  type: http
+  seq: 5
+
+http:
+  method: GET
+  url: "{{backend-url}}/user/me"
+  body:
+    type: json
+    data: |-
+      {
+        "username": "farid"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

@@ -1,0 +1,938 @@
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:55:31.965Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:56:33.065Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":32727,"syscall":"connect","timestamp":"2026-07-01T06:59:00.663Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:10:53.156Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:11:56.703Z"}
+{"address":"172.17.0.3","code":"ECONNREFUSED","errno":-111,"level":"error","port":30423,"syscall":"connect","timestamp":"2026-07-01T07:13:06.456Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","port":30432,"syscall":"connect","timestamp":"2026-07-01T07:17:58.069Z"}
+{"code":"42P01","file":"parse_relation.c","length":110,"level":"error","line":"1449","name":"error","position":"15","routine":"parserOpenTable","severity":"ERROR","timestamp":"2026-07-01T07:18:54.602Z"}
+{"code":"42P01","file":"parse_relation.c","length":110,"level":"error","line":"1449","name":"error","position":"15","routine":"parserOpenTable","severity":"ERROR","timestamp":"2026-07-01T07:23:14.918Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:51.775Z"}
+{"duration":3,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:52.245Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:52.672Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:52.821Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:52.955Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:53.199Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:53.332Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:53.427Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:53.560Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:25:53.683Z"}
+{"duration":34,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:22.922Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:23.381Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:23.522Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:23.671Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:23.814Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:23.935Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:24.087Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:29.375Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:29.589Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:29.728Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:29.872Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.023Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.172Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.333Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.563Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.702Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:30.881Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:31.032Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:31.194Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:31.354Z"}
+{"duration":24,"level":"info","message":"Executed query","q":"SELECT * FROM users","rows":1,"timestamp":"2026-07-01T07:27:57.185Z"}
+{"duration":28,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:10.084Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.086Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:10.510Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.511Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:10.925Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:10.926Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.061Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.062Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.226Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.226Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.398Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.398Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.538Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.538Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.690Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.691Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:11.853Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:11.853Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:12.021Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.021Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:12.417Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.417Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:12.782Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:12.782Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:13.009Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.009Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:13.285Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.285Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:13.655Z"}
+{"level":"error","timestamp":"2026-07-01T07:28:13.655Z"}
+{"duration":26,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:19.820Z"}
+{"duration":25,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:26.444Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:26.858Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.019Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.158Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.286Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.436Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.599Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.749Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:27.910Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:28.050Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:28.206Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:28.348Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM Shorter_url","rows":1,"timestamp":"2026-07-01T07:28:28.497Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.222Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.366Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.502Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.663Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.797Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url","rows":1,"timestamp":"2026-07-01T07:28:31.921Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:00.623Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:03.389Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:03.940Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.183Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.366Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:04.747Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:46:05.091Z"}
+{"duration":35,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:46:21.873Z"}
+{"duration":17,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:46:43.796Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:49:09.058Z"}
+{"duration":3,"level":"info","message":"Executed query","q":"insert into users(username) values ($1)","rows":1,"timestamp":"2026-07-01T07:49:09.064Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:42.425Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:42.427Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:44.899Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:44.900Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:45.394Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.395Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:45.579Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.580Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:45.779Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.780Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:45.983Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:45.983Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:46.192Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.192Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:46.349Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.349Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:46.520Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.520Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:46.700Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.700Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:46.847Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:46.848Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:48.232Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.232Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:48.530Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.530Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:48.841Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:48.841Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:49.122Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.122Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:49.406Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.406Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:49.671Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.671Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:49.938Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:49.938Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:50:50.212Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:50:50.213Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:10.757Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:10.760Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:11.548Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.548Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:11.693Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.693Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:11.840Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.840Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:11.989Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:11.990Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.142Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.142Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.281Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.281Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.444Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.445Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.585Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.585Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.745Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.745Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:12.914Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:12.914Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:13.089Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.089Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:13.300Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.300Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:13.539Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.539Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:13.810Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:13.810Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:14.119Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.119Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:14.361Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.362Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:51:14.610Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:51:14.610Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T07:56:19.515Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:56:33.024Z"}
+{"duration":33,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:57:05.263Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:57:05.664Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:57:05.817Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:57:09.982Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:09.983Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:57:10.748Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:10.749Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:57:10.893Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:10.893Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":0,"timestamp":"2026-07-01T07:57:11.040Z"}
+{"code":404,"level":"error","timestamp":"2026-07-01T07:57:11.041Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:57:17.775Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T07:57:18.157Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:31:37.206Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:13.345Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.079Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.309Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.458Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:14.667Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.373Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.586Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:16.840Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:17.109Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:23.176Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:32:23.753Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:32:43.015Z"}
+{"code":"08P01","file":"postgres.c","length":137,"level":"error","line":"1733","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2026-07-01T08:32:56.255Z"}
+{"code":"08P01","file":"postgres.c","length":137,"level":"error","line":"1733","name":"error","routine":"exec_bind_message","severity":"ERROR","timestamp":"2026-07-01T08:32:56.255Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:37:07.753Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:37:07.753Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:37:52.371Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:37:53.606Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:38:07.309Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T08:38:07.309Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:38:56.903Z"}
+{"level":"error","timestamp":"2026-07-01T08:39:41.100Z"}
+{"code":400,"level":"error","timestamp":"2026-07-01T08:40:10.364Z"}
+{"duration":31,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T08:40:41.784Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:41:24.130Z"}
+{"level":"error","timestamp":"2026-07-01T08:41:24.134Z"}
+{"duration":27,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.940Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.949Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.957Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.958Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.962Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.963Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.966Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.967Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.971Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.972Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:08.977Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:08.978Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.060Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.061Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.067Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.068Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.072Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.073Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.079Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.080Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.108Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.109Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.160Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.161Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.250Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.250Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.345Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.346Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.353Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.354Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.394Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.395Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.422Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.423Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.491Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.492Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.514Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.515Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.538Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.539Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.607Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.608Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.633Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.634Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.692Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.693Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.721Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.722Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.767Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.768Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:28.814Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:28.815Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:29.941Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.942Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:29.948Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.949Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:29.953Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.954Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:29.961Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.962Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:29.985Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:29.986Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.016Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.017Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.089Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.090Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.189Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.190Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.250Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.251Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.272Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.272Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.307Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.307Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.347Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.348Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.387Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.387Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.393Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.394Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.418Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.418Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.425Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.426Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.464Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.464Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.501Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.502Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.568Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.569Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:30.575Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:30.576Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.621Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.622Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.627Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.628Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.632Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.633Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.640Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.641Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.645Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.646Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.684Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.685Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.717Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.718Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.805Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.806Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.907Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.908Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.954Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.955Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:35.998Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:35.999Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.009Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.010Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.057Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.058Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.105Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.106Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.133Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.134Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.196Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.197Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.273Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.273Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.302Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.303Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.371Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.372Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:42:36.395Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:42:36.396Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:07.513Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:07.517Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.511Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.520Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.526Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.528Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.533Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.535Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.541Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.542Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.546Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.548Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:43:42.552Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:43:42.553Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:44:50.595Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:44:50.605Z"}
+{"duration":31,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:44:59.104Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:44:59.114Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:30.987Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:30.996Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:31.002Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.003Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:31.008Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.010Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:31.019Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.020Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:31.023Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.024Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:45:31.028Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:45:31.029Z"}
+{"duration":34,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T08:48:24.242Z"}
+{"duration":22,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T08:50:30.634Z"}
+{"duration":19,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:50:54.613Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:50:54.622Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.624Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:50:54.629Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.630Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:50:54.633Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.634Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:50:54.637Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.638Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:50:54.642Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:50:54.642Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:51:25.470Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:51:25.484Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.487Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:51:25.497Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.500Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:51:25.504Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.505Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:51:25.510Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.511Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT (original_url) from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T08:51:25.515Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T08:51:25.516Z"}
+{"duration":28,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:53:09.820Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:08.090Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:08.102Z"}
+{"duration":3,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:08.110Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:08.115Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:08.119Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:08.123Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:14.097Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:14.102Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:14.107Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:14.111Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:14.115Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:14.119Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.506Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.513Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.517Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.524Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.529Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.553Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.582Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.652Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.764Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.833Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.876Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:31.919Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:31.947Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:32.016Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:32.038Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:32.096Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:32.106Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:32.154Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:32.195Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:32.257Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.366Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.371Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.376Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.385Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.393Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.437Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.471Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.568Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.663Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.737Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.746Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.779Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.823Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.865Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.872Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.901Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:33.948Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:33.994Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:34.001Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:34.032Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.113Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.119Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.124Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.132Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.140Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.178Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.208Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.315Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.417Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.484Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.493Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.529Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.536Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.575Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.602Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.625Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.675Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.745Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:54:39.824Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:54:39.897Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:34.172Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:34.184Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:34.189Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:34.195Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:34.201Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:34.208Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:48.036Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:48.042Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:49.808Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:49.815Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:49.820Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:49.824Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:49.833Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:49.837Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:49.866Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:49.930Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.047Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.151Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.197Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.245Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.285Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.290Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.355Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.429Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.475Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.512Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:50.518Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:50.554Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.184Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.192Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.197Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.205Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.228Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.260Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.337Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.434Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.512Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.522Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.560Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.567Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.632Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.703Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.748Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.783Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.794Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.833Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T08:55:53.840Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:55:53.890Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T08:56:52.812Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.844Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.849Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.853Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.857Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.862Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T08:57:22.866Z"}
+{"duration":19,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T08:57:44.479Z"}
+{"duration":33,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:03:44.557Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:03:44.561Z"}
+{"duration":8,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:44.569Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T09:03:45.474Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T09:03:45.475Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:45.478Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":3,"timestamp":"2026-07-01T09:03:45.924Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":3,"timestamp":"2026-07-01T09:03:45.925Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:45.931Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":4,"timestamp":"2026-07-01T09:03:46.279Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":4,"timestamp":"2026-07-01T09:03:46.280Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:46.285Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":5,"timestamp":"2026-07-01T09:03:46.440Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":5,"timestamp":"2026-07-01T09:03:46.441Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:46.447Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":6,"timestamp":"2026-07-01T09:03:46.588Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":6,"timestamp":"2026-07-01T09:03:46.589Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:46.594Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":7,"timestamp":"2026-07-01T09:03:46.727Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":7,"timestamp":"2026-07-01T09:03:46.728Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:46.733Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":8,"timestamp":"2026-07-01T09:03:46.880Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":8,"timestamp":"2026-07-01T09:03:46.881Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:46.883Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":9,"timestamp":"2026-07-01T09:03:47.005Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":9,"timestamp":"2026-07-01T09:03:47.006Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:47.012Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":10,"timestamp":"2026-07-01T09:03:47.135Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":10,"timestamp":"2026-07-01T09:03:47.135Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:47.141Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:03:54.924Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:03:54.924Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:54.930Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:03:55.107Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:03:55.108Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:55.113Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T09:03:55.393Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":2,"timestamp":"2026-07-01T09:03:55.394Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:55.400Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":3,"timestamp":"2026-07-01T09:03:55.630Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":3,"timestamp":"2026-07-01T09:03:55.631Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:55.636Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":4,"timestamp":"2026-07-01T09:03:55.742Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":4,"timestamp":"2026-07-01T09:03:55.742Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:55.748Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":5,"timestamp":"2026-07-01T09:03:55.912Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":5,"timestamp":"2026-07-01T09:03:55.913Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:03:55.918Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:04:49.554Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:04:49.558Z"}
+{"duration":10,"level":"info","message":"Executed query","q":"insert into shorter_url(user_ID, original_url, shorter_url) values ($1, $2 , $3)","rows":1,"timestamp":"2026-07-01T09:04:49.568Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:49.832Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:49.833Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:49.835Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:49.835Z"}
+{"duration":14,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.134Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.136Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.136Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.136Z"}
+{"duration":14,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.274Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.275Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.276Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.276Z"}
+{"duration":14,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.597Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:50.598Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.599Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:50.599Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:52.933Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:52.934Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:52.935Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:52.935Z"}
+{"duration":10,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:53.384Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:04:53.384Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:53.385Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:04:53.385Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.044Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.048Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.051Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.051Z"}
+{"duration":18,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.664Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.665Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.667Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.667Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.868Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:36.870Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.871Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:36.871Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:37.041Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:37.042Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.043Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.043Z"}
+{"duration":17,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:37.204Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:37.205Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.206Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:37.206Z"}
+{"duration":33,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:50.599Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:05:50.604Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:50.606Z"}
+{"code":"42601","file":"scan.l","length":92,"level":"error","line":"1244","name":"error","position":"8","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:05:50.606Z"}
+{"duration":28,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:33.007Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:33.011Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:33.755Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:33.757Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:33.998Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.000Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.144Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.145Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.287Z"}
+{"duration":4,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.291Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.461Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.461Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.622Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.623Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.797Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.797Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.954Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:06:34.955Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:35.214Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:35.218Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:35.225Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:36.009Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:36.011Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:36.017Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:36.530Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:36.531Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:36.533Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:38.859Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:38.861Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:38.862Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.043Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.043Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.045Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.261Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.261Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.266Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.411Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.411Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.417Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.580Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.580Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.586Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.711Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.711Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.718Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.845Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.845Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.851Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.978Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:39.979Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:39.984Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.120Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.121Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:40.126Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.273Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.274Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:40.280Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.435Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.435Z"}
+{"duration":6,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:40.441Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.573Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:07:40.574Z"}
+{"duration":5,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:07:40.579Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:07:57.161Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:07:57.162Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:07:57.445Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:07:57.446Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:01.476Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:01.476Z"}
+{"duration":31,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:08:38.512Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.113Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.117Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:39.150Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:46.944Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:46.944Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:47.711Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:47.712Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:50.397Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.398Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:50.809Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.810Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:50.971Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:50.972Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.117Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.118Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.264Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.264Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.422Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.422Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.579Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.580Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.737Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.737Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:51.847Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:51.847Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.011Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.011Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.165Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.165Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.315Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.315Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.497Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.498Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.720Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.720Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:08:52.866Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:08:52.866Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.838Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.839Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:07.878Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:09:12.952Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:09:12.953Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:12:29.616Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:12:29.619Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:12:30.226Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:12:30.226Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:13:33.936Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:13:33.940Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:13:34.316Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:13:34.317Z"}
+{"duration":34,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:14:20.671Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:14:20.675Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:14:21.054Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:14:21.055Z"}
+{"duration":15,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:16:37.235Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:37.237Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:16:37.602Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:37.602Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:54.570Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.866Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.871Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:54.900Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:56.143Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.460Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.463Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:56.494Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:57.117Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.410Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.411Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:57.444Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:58.145Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.467Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.468Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:58.502Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:58.841Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.081Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.082Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.109Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:16:59.463Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.712Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.713Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:16:59.737Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:00.020Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.257Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.258Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.287Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:00.552Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.787Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.788Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:00.811Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:01.052Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.266Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.267Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.290Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:01.498Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.701Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.701Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:01.728Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:01.928Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.180Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.181Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.204Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:02.292Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.533Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.534Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.555Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:17:02.643Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.880Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.881Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:17:02.907Z"}
+{"duration":18,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:14.198Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:14.572Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:14.768Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:15.065Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:15.250Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:15.502Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:15.746Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:15.994Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:16.254Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:16.553Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:16.959Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:17.411Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:17.848Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"select * from users u where u.username = $1","rows":1,"timestamp":"2026-07-01T09:17:18.303Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:21.117Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:21.117Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.025Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.025Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.510Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.510Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.582Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.582Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.718Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:22.718Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.041Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.041Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.175Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.175Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.322Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.322Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.479Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.479Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.619Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.619Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.779Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.779Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.906Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:23.906Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:24.047Z"}
+{"code":"42601","file":"scan.l","length":94,"level":"error","line":"1244","name":"error","position":"40","routine":"scanner_yyerror","severity":"ERROR","timestamp":"2026-07-01T09:17:24.047Z"}
+{"duration":34,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url s join users u on s.user_ID = u.ID where u.ID = $1 order by s.created_at asc","rows":1,"timestamp":"2026-07-01T09:19:28.361Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:34.797Z"}
+{"duration":16,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:40.059Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.060Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:40.531Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.532Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:40.725Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.725Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:40.913Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:40.914Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.083Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.083Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.246Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.247Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.435Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.436Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.590Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.591Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.773Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.774Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:41.938Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:41.939Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:42.103Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.103Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:42.435Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.435Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:42.603Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.603Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:42.779Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.779Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:42.956Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:42.956Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:43.110Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:43.110Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:47.656Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:47.656Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:20:48.066Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:20:48.066Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:21:27.859Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:21:27.870Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.248Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.260Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:23:40.276Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:23:41.762Z"}
+{"level":"error","timestamp":"2026-07-01T09:23:41.762Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:23:53.871Z"}
+{"level":"error","timestamp":"2026-07-01T09:23:53.873Z"}
+{"duration":18,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:00.080Z"}
+{"duration":32,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:26.204Z"}
+{"level":"error","timestamp":"2026-07-01T09:24:26.207Z"}
+{"duration":22,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:32.368Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:33.088Z"}
+{"duration":0,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:33.473Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:33.844Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:34.223Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:34.588Z"}
+{"duration":29,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:24:52.018Z"}
+{"level":"error","timestamp":"2026-07-01T09:24:52.020Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:25:55.576Z"}
+{"duration":30,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:26:34.864Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:26:34.867Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:26:35.746Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:26:35.746Z"}
+{"duration":19,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:27:37.179Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:27:37.180Z"}
+{"duration":28,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:33:25.260Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:33:25.262Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":0,"timestamp":"2026-07-01T09:33:25.584Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:33:25.584Z"}
+{"duration":31,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:37:41.814Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.260Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.266Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:42.298Z"}
+{"duration":18,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:37:52.322Z"}
+{"duration":2,"level":"info","message":"Executed query","q":"select * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:37:52.324Z"}
+{"duration":3,"level":"info","message":"Executed query","q":"update shorter_url  set original_url = $1 where shorter_url = $2","rows":1,"timestamp":"2026-07-01T09:37:52.327Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.385Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.386Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:55.425Z"}
+{"duration":1,"level":"info","message":"Executed query","q":"SELECT * from shorter_url s where s.shorter_url = $1","rows":1,"timestamp":"2026-07-01T09:37:56.455Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.005Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.008Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:37:57.042Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.769Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.770Z"}
+{"level":"error","message":"Not Found","timestamp":"2026-07-01T09:38:04.805Z"}
+{"duration":18,"level":"info","message":"Executed query","q":"SELECT * FROM shorter_url s join users u on s.user_ID = u.ID where u.ID = $1 order by s.created_at asc","rows":1,"timestamp":"2026-07-01T09:38:11.094Z"}
