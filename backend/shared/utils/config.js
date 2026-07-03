@@ -3,6 +3,7 @@ export const config = {
   PORT: process.env.PORT || 3030,
   REDIS_HOST: process.env.REDIS_HOST || "172.17.0.3",
   REDIS_PORT: process.env.REDIS_PORT || 30379,
+  REDIS_URL: process.env.REDIS_URL || `redis://172.17.0.3:30379`,
   REDIS_USER: process.env.REDIS_USER || "",
   REDIS_PASSWORD: process.env.REDIS_PASSWORD || "",
   POSTGRES_HOST: process.env.POSTGRES_HOST || "localhost",
@@ -10,4 +11,4 @@ export const config = {
   POSTGRES_USER: process.env.POSTGRES_USER || "root",
   POSTGRES_PASSWORD: process.env.POSTGRES_PASSWORD || "password",
   POSTGRES_DATABASE: process.env.POSTGRES_DATABASE || "postgres",
-}
+} 

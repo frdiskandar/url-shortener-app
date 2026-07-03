@@ -3,12 +3,7 @@ import { logger } from "../utils/logger.js"
 import { createClient } from "redis"
 
 const client = createClient({
-  username: config.REDIS_USER || undefined,
-  password: config.REDIS_PASSWORD || undefined,
-  socket: {
-    host: config.REDIS_HOST,
-    port: Number(config.REDIS_PORT),
-  },
+  url: config.REDIS_URL
 })
 
 client.on("error", (err) => {

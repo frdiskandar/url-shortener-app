@@ -29,7 +29,7 @@ function App() {
   return (
     <ToastProvider>
       <main className="container mx-auto max-h-screen overflow-hidden">
-        <Hero1 title="shortener" className="h-screen" subtitle="make your link short a quick">
+        <Hero1 title="shortener" className="h-screen" subtitle="Quickly shorten any link">
           <div className="container flex flex-col justify-between items-center h-full py-8 gap-y-6">
             <section id="form" className="w-full flex justify-center">
               <FormUrl onSuccess={() => queryClient.invalidateQueries({ queryKey: ['urls'] })} />
