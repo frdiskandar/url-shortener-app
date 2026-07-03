@@ -7,7 +7,7 @@ export const config = {
   REDIS_USER: process.env.REDIS_USER || "",
   REDIS_PASSWORD: process.env.REDIS_PASSWORD || "",
   POSTGRES_HOST: process.env.POSTGRES_HOST || "localhost",
-  POSTGRES_PORT: process.env.POSTGRES_PORT || 5432,
+  POSTGRES_PORT: process.env.POSTGRES_PORT,
   POSTGRES_USER: process.env.POSTGRES_USER || "root",
   POSTGRES_PASSWORD: process.env.POSTGRES_PASSWORD || "password",
   POSTGRES_DATABASE: process.env.POSTGRES_DATABASE || "postgres",
