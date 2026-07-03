@@ -30,6 +30,7 @@ export default function FormUrl({ onSuccess }: FormUrlProps) {
 
         const result = await response.json()
         console.log('Shortened response:', result)
+        value.url = ''
         onSuccess?.()
       } catch (error) {
         console.error('Failed to submit URL:', error)
