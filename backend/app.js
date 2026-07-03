@@ -23,6 +23,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get("/health", (req, res, next) => {
+  return res.json({
+    status: 'Ok!'
+  })
+})
 app.use("/", ShortenerRouter);
 app.use("/user", UserRoute);
 
