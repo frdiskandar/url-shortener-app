@@ -1,12 +1,13 @@
 import React, { useState } from "react";
+import { useToast } from "#/components/ui/8bit/toast";
 
 import { Card, CardHeader, CardContent } from "#/components/ui/8bit/card";
 import { Button } from "#/components/ui/8bit/button";
 
 type UrlItem = {
   id: string;
-  shortUrl: string;
-  originalUrl: string;
+  shorter_url: string;
+  original_url: string;
 };
 
 interface ListUrlShortedProps {
@@ -16,12 +17,16 @@ interface ListUrlShortedProps {
 
 const ListUrlShorted: React.FC<ListUrlShortedProps> = ({ items = [], onDelete }) => {
   const [copiedId, setCopiedId] = useState<string | null>(null);
+  const backendUrl = (import.meta as any).env?.VITE_BACKEND_URL || (import.meta as any).env?.BACKEND_URL || 'http://localhost:3030'
+
+  const { toast } = useToast()
 
   const handleCopy = async (text: string, id: string) => {
     try {
       await navigator.clipboard.writeText(text);
       setCopiedId(id);
       setTimeout(() => setCopiedId(null), 1500);
+      toast('Copied!!')
     } catch (err) {
       // fail quietly for now
       // optionally: show a toast or console
@@ -61,8 +66,8 @@ const ListUrlShorted: React.FC<ListUrlShortedProps> = ({ items = [], onDelete })
                   <div className="col-span-1 text-xs">{idx + 1}</div>
 
                   <div className="col-span-4 pr-3">
-                    <a href={it.shortUrl} target="_blank" rel="noreferrer" className="underline text-xs block truncate max-w-full">
-                      {it.shortUrl}
+                    <a href={`${backendUrl}/${it.shorter_url}`} target="_blank" rel="noreferrer" className="underline text-xs block truncate max-w-full">
+                      {`${backendUrl}/${it.shorter_url}`}
                     </a>
                   </div>
 
@@ -71,7 +76,7 @@ const ListUrlShorted: React.FC<ListUrlShortedProps> = ({ items = [], onDelete })
                       size="icon"
                       variant="secondary"
                       className="w-6 h-6 p-1"
-                      onClick={() => handleCopy(it.shortUrl, it.id)}
+                      onClick={() => handleCopy(`${backendUrl}/${it.shorter_url}`, it.id)}
                       aria-label="Copy"
                       title={copiedId === it.id ? "Copied" : "Copy"}
                     >
@@ -82,8 +87,8 @@ const ListUrlShorted: React.FC<ListUrlShortedProps> = ({ items = [], onDelete })
                     </Button>
                   </div>
 
-                  <div className="col-span-5 truncate text-xs" title={it.originalUrl}>
-                    {it.originalUrl}
+                  <div className="col-span-5 truncate text-xs text-start" title={it.original_url}>
+                    {it.original_url}
                   </div>
 
                   <div className="col-span-1 flex justify-end">

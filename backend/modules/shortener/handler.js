@@ -4,7 +4,7 @@ export const getShorteners = async (req, res , next) => {
   try {
     const result = await ServiceGetShortener(req)
     res.json({
-      data: result
+      data: result.rows
     })
   } catch (error) {
     next(error)
