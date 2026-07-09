@@ -1,6 +1,6 @@
 # URL Shortener 🔗
 
-![Tampilan Website](url-shortener-documentation/Screenshot%20From%202026-07-09%2015-11-05.png)
+<img width="1920" height="1049" alt="Screenshot From 2026-07-09 15-11-05" src="https://github.com/user-attachments/assets/134f7ba8-7227-4cdf-bd32-7bb227e89781" />
 
 **URL Shortener** adalah aplikasi web untuk mempersingkat tautan panjang menjadi tautan pendek yang mudah dibagikan. Dibangun dengan arsitektur **backend** berbasis Express.js, **frontend** React yang modern, serta menggunakan **PostgreSQL** sebagai database utama dan **Redis** untuk caching.
 
